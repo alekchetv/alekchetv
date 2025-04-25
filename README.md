@@ -10,5 +10,11 @@ Visualization: Matplotlib, Seaborn
 Parsing: requests, Selenium, Beatiful Soup   
 PostgreSQL, Linux, Git, Docker  
 
-📩 [Telegram](https://t.me/alekchetv)  
+**Учебные проекты:**
+- <a href = "https://github.com/alekchetv/IoT-Data-Collection-system">Система сбора данных с IoT датчиков</a>
+- <a href = "https://github.com/alekchetv/ML-projects">ML проекты</a>
+- <a href = "https://github.com/alekchetv/Frame">Сервис оценки фильмов</a>
+
+Контакты:  
+📩 [Telegram](https://t.me/alekchetv)    
 📫 [alekseitchetveruhin@yandex.ru](mailto:alekseitchetveruhin@yandex.ru) 
