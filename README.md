@@ -5,7 +5,7 @@
 Data: Pandas, NumPy  
 Backend: FastApi, Django, SqlAlchemy, alembic, Tortoise, PyDantic  
 ML: Scikit-Learn, XGBoost, Catboost  
-DL: PyTorch, OpenCV
+DL: PyTorch, Torchvision, OpenCV  
 Visualization: Matplotlib, Seaborn  
 Parsing: requests, Selenium, Beatiful Soup   
 PostgreSQL, Linux, Git, Docker  
