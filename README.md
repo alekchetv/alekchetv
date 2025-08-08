@@ -15,7 +15,6 @@ PostgreSQL, Linux, Git, Docker
 - <a href = "https://github.com/alekchetv/Image-Bot-Classificator">Классификатор изображений (CV)</a>
 - <a href = "https://github.com/alekchetv/ML-Yandex-Training-3.0">Задачи компьютерного зрения (Тренировки по ML от Яндекс)</a>
 - <a href = "https://github.com/alekchetv/ML-projects">ML проекты</a>
-- <a href = "https://github.com/alekchetv/Frame">Сервис оценки фильмов</a>
 
 Контакты:  
 📩 [Telegram](https://t.me/alekchetv)    
