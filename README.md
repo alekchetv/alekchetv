@@ -12,6 +12,7 @@ PostgreSQL, Linux, Git, Docker
 
 **Учебные проекты:**
 - <a href = "https://github.com/alekchetv/IoT-Data-Collection-system">Система сбора данных с IoT датчиков</a>
+- <a href = "https://github.com/alekchetv/Image-Bot-Classificator">Классификатор изображений (CV)</a>
 - <a href = "https://github.com/alekchetv/ML-Yandex-Training-3.0">Задачи компьютерного зрения (Тренировки по ML от Яндекс)</a>
 - <a href = "https://github.com/alekchetv/ML-projects">ML проекты</a>
 - <a href = "https://github.com/alekchetv/Frame">Сервис оценки фильмов</a>
